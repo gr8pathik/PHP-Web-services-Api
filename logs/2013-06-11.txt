@@ -1,0 +1,2 @@
+Time : 12:59:59
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
